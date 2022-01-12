@@ -1,0 +1,44 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url(./Resources/images/image1.jpg);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}   
+
+.brush h2 {
+    color: white;
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+}
+#brush-price {
+    color: blue;
+    font-weight: bold;
+}
+
+.frame h2{
+    color: white;
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;    
+}
+#frame-price {
+    color: blue;
+    font-weight: bold;
+}
+
+.paint h2{
+    color: white;
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+}
+#paint-price {
+    color: blue;
+    font-weight: bold;
+}
